@@ -13,7 +13,7 @@ The tool also assumes a folder structure for the images of the following:
 
 (80% of images)
 DatasetTrain
-      |___SearchTerm1Folder
+            |___SearchTerm1Folder
       |___SearchTerm2Folder
       |___etc...
 
