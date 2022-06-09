@@ -12,12 +12,14 @@ Gathering a dataset can be done using the scraper.py tool, all that needs to be 
 The tool also assumes a folder structure for the images of the following:
 
 (80% of images)
+
 DatasetTrain
-            |___SearchTerm1Folder
+      |___SearchTerm1Folder
       |___SearchTerm2Folder
       |___etc...
 
 (20% of images)
+
 DatasetTest
       |___SearchTerm1Folder
       |___SearchTerm2Folder
